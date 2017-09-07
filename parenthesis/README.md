@@ -26,4 +26,4 @@ Find the Big O time complexity for the algorithm
 
 **Output**
 
-(12 + 3  * (17 - 3)) * 108
+(12 + 3  * (17 - 3)) * 2 = 108
