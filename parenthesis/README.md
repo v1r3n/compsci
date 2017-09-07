@@ -7,17 +7,25 @@
 
 **Given above, modify the LHS such that by adding one or more groups of parenthesis, LHS == RHS.**
 
+Find the Big O time complexity for the algorithm
+
 
 ### Example 1
+
+**Input**
+
 200 - 60 / 5 = 28
+
+**Output**
 
 (200 - 60)/5 = 28
 
 ### Example 2
+
+**Input**
+
 12 + 3  * 17 - 3 * 2 = 108
 
-(12 + 3  * (17 - 3)) * 108
+**Output**
 
-## Bonus
-1. Find the Big O for the solution
-2. Find a solution that requires the minimum no. of parenthesis
+(12 + 3  * (17 - 3)) * 108
