@@ -1,5 +1,3 @@
-# Problem Statement
-
 1. You are given an equation of the form LHS = RHS.
 2. LHS is a mathematical expression on real numbers with +, -, * and / operations.
 3. RHS is a single numerical value (real number).
